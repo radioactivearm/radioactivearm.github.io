@@ -18,5 +18,6 @@ function scaleImages() {
 
 scaleImages()
 
+
 d3.select(window).on("resize", scaleImages);
 // =================================================
