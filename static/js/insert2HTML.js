@@ -166,6 +166,7 @@ function MD() {
 
                     console.log('Andy was here');
 
+                // if there is a horizontal divider, it puts a horizontal divider in
                 } else if (entry.startsWith('===')) {
 
                     htmlString = htmlString + '<hr>'
