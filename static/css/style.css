@@ -45,3 +45,21 @@ a:hover {
 body {
     background-color: silver;
 }
+
+.socials {
+    text-align: center;
+}
+
+.sociallink {
+    color: rgb(158, 6, 6);
+    position: relative;
+
+}
+
+p.inserted {
+    font-size: 18px;
+}
+
+h5.inserted {
+    font-size: 25px;
+}
