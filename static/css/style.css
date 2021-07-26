@@ -1,3 +1,39 @@
+/*--------------------------------------*/
+/* Navigation Bar*/
+
+.navbar {
+    text-align: center;
+    background-color: #565051;
+    border-radius: 10px;
+    box-shadow: 5px 5px #990012;
+    margin-top:10px;
+}
+
+.navbar a {
+    font-family:cursive;
+    font-size: 20px;
+}
+
+.navbar li a {
+    color: #fff;
+}
+
+.navbar h1 {
+    color: #fff; 
+    font-family:cursive;
+}
+
+.dropdown-menu {
+
+    background-color: rgb(53,58,64);
+    border-radius: 10px;
+    /* box-shadow: 5px 5px #990012; */
+}
+/*------------------------------*/
+#pic-contact {
+    text-align: center;
+}
+
 #andy-pic {
     width: 100%;
     border-radius: 5px;
